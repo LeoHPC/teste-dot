@@ -21,7 +21,7 @@
 </h4>
 
 <p align="center">
-  <a href="#computer-desktop">Desktop</a> | <a href="#iphone-mobile">Mobile</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#yum-demonstração">Demonstração</a>
+  <a href="#computer-desktop">Desktop</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#yum-demonstração">Demonstração</a>
 </p>
   
 ## :computer: Desktop
@@ -33,17 +33,6 @@
 <div align="center">
   <img src="https://i.ibb.co/tMGqDMy/Prova-Front-End-Junior-Desk.png" width=49% >
   <img src="https://i.ibb.co/d5SmK0x/teste-dot-leohpc-vercel-app-teste-dot.png" width=49% >
-</div>
-
-## :iphone: Mobile
-
-<h4 align="center">
-  Versão de mobile esperada | Versão de mobile feita
-</h4>
-
-<div align="center">
-  <img src="https://i.ibb.co/cwWRVXn/Prova-Front-End-Junior-Mobile-1.png" width=40% >
-  <img src="https://i.ibb.co/mBvPsWB/teste-dot-leohpc-vercel-app-i-Phone-SE.png" width=41.07% >
 </div>
 
 ## :rocket: Tecnologias
