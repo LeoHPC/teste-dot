@@ -1,11 +1,13 @@
 <h1 align="center">
   <img src="https://i.ibb.co/4Tz5BwB/1624295414344.jpg" width="100">
   <br>
-  Teste DOT Group | Júnior
+  Teste DOT Group | Pleno | Júnior
 </h1>
 
 <p align="center">
-  <a href="https://teste-dot-leohpc.vercel.app">Demonstração</a>
+  <a href="https://teste-dot-pleno.vercel.app">Demonstração Teste para Pleno</a>
+  |
+  <a href="https://teste-dot-leohpc.vercel.app">Demonstração Teste para Júnior</a>
 </p>
 
 <p align="center">
@@ -17,7 +19,7 @@
 </p>
 
 <h4 align="center">
-  Este repositório é destinado a um teste que fiz para empresa "DOT Group", do qual consistia em recriar o design de uma aplicação pré estabelecida utilizando apenas HTML, CSS, JavaScript e Gulp. A aplicação deveria, também, ser responsiva, isso é, ser funcional em qualquer tamanho de tela. Neste repositório, estão os diretórios para asvagas de júnior e pleno.
+  Este repositório é destinado a um teste que fiz para empresa "DOT Group", do qual consistia em recriar o design de uma aplicação pré estabelecida utilizando apenas HTML, CSS, JavaScript e Gulp. A aplicação deveria, também, ser responsiva, isso é, ser funcional em qualquer tamanho de tela. Neste repositório, estão os diretórios para as vagas de júnior e pleno.
 </h4>
 
 <p align="center">
@@ -59,7 +61,7 @@ Este projeto foi criado com as seguintes tecnologias:
 
 ## :yum: Demonstração
 
-Projeto já finalizado! Clique neste <a href="https://teste-dot-leohpc.vercel.app">link</a> para testar à vontade!
+Projeto já finalizado! Clique neste <a href="https://teste-dot-pleno.vercel.app">link</a> para testar o teste para pleno e <a href="https://teste-dot-leohpc.vercel.app">este</a> para o júnior!
 
 ---
 
