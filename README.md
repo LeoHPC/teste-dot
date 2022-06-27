@@ -10,14 +10,6 @@
   <a href="https://teste-dot-leohpc.vercel.app">Demonstração Teste para Júnior</a>
 </p>
 
-<p align="center">
-  <br>
-  <img src="https://img.shields.io/github/languages/top/leohpc/teste-dot">
-  <img src="https://img.shields.io/github/issues/leohpc/teste-dot">
-  <img src="https://img.shields.io/github/forks/leohpc/teste-dot">
-  <img src="https://img.shields.io/github/stars/leohpc/teste-dot">
-</p>
-
 <h4 align="center">
   Este repositório é destinado a um teste que fiz para empresa "DOT Group", do qual consistia em recriar o design de uma aplicação pré estabelecida utilizando apenas HTML, CSS, JavaScript e Gulp. A aplicação deveria, também, ser responsiva, isso é, ser funcional em qualquer tamanho de tela. Neste repositório, estão os diretórios para as vagas de júnior e pleno.
 </h4>
