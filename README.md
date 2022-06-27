@@ -29,23 +29,24 @@
 ## :computer: Pleno
 
 <h4 align="center">
-  Versão de desktop esperada | Versão de desktop feita
+  Versão de desktop | Versão mobile
 </h4>
 
 <div align="center">
-  <img src="https://i.ibb.co/kBhYWGR/Prova-Front-End-Pleno-Desk.png" width=49% >
-  <img src="https://i.ibb.co/pwWvtZR/C-Users-Leonardo-Desktop-Teste-DOT-pleno-index-html-name-dew-email-wee-com-telefone-23-23232-3323-me.png" width=48.75% >
+  <img src="https://i.ibb.co/pwWvtZR/C-Users-Leonardo-Desktop-Teste-DOT-pleno-index-html-name-dew-email-wee-com-telefone-23-23232-3323-me.png" width=50% >
+  <img src="https://i.ibb.co/ph2qcGS/teste-dot-pleno-vercel-app-i-Phone-SE.png" width=14.94% >
 </div>
   
 ## :computer: Júnior
 
 <h4 align="center">
-  Versão de desktop esperada | Versão de desktop feita
+  Versão de desktop | Versão mobile
 </h4>
 
 <div align="center">
-  <img src="https://i.ibb.co/tMGqDMy/Prova-Front-End-Junior-Desk.png" width=49% >
-  <img src="https://i.ibb.co/d5SmK0x/teste-dot-leohpc-vercel-app-teste-dot.png" width=49% >
+  <img src="https://i.ibb.co/d5SmK0x/teste-dot-leohpc-vercel-app-teste-dot.png" width=50% >
+  <img src="https://i.ibb.co/9hSCpgb/teste-dot-leohpc-vercel-app-i-Phone-SE-1.png" width=9.42% >
+
 </div>
 
 ## :rocket: Tecnologias
