@@ -62,7 +62,7 @@ Este projeto foi criado com as seguintes tecnologias:
 
 ## :yum: Demonstração
 
-Projeto já finalizado! Clique neste <a href="https://teste-dot-pleno.vercel.app">link</a> para testar o teste para pleno e <a href="https://teste-dot-leohpc.vercel.app">este</a> para o júnior!
+Projeto já finalizado! Clique neste <a href="https://teste-dot-pleno.vercel.app">link</a> para testar o teste para pleno e <a href="https://teste-dot-leohpc.vercel.app">este</a> para o júnior! Ou então, clone este repositório em sua máquina, acesse a pasta do teste desejado e abra o arquivo "index.html" em seu navegador de preferência!
 
 ---
 
