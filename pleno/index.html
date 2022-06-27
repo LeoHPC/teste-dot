@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <!-- METAS -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width">
+
+  <!-- TITLE -->
+  <title>Teste DOT | Pleno</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="styles.css">
+
+  <!-- NORMALIZE -->
+  <link rel="stylesheet" type="text/css" href="normalize.css">
+
+  <!-- FAVICON -->
+  <link rel="shortcut icon" href="assets/favicon.jpg">
+
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
+    rel="stylesheet">
+
+  <!-- HTML5 SHIV -->
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+  <!-- FIRST SECTION -->
+  <header>
+    <section class="desktop-header">
+      <div class="main-header">
+        <h1 class="title-desktop">LOREM IPSUM</h1>
+        <h3 class="sub-title-desktop">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
+      </div>
+    </section>
+
+    <section class="desktop-mobile">
+      <h1 class="title-mobile">LOREM IPSUM</h1>
+      <h3 class="sub-title-mobile">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
+    </section>
+
+    <a href="#second-section">
+      <img src="assets/arrow.png" alt="Imagem de uma seta apontada para baixo">
+    </a>
+
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="assets/background.png" width="100%"
+          alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="assets/background.png" width="100%"
+          alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="assets/background.png" width="100%"
+          alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+      </div>
+
+      <div class="dot-wrapper">
+        <span class="dot" onclick="currentSlides(1)"></span>
+        <span class="dot" onclick="currentSlides(2)"></span>
+        <span class="dot" onclick="currentSlides(3)"></span>
+      </div>
+    </div>
+
+  </header>
+
+  <!-- SECOND SECTION -->
+  <section id="second-section" class="second-section carousel">
+    <div data-js="carousel__item" class="carousel__item carousel__item--visible">
+      <div class="carousel-item-wrapper">
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 1</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 2</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 3</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+      </div>
+    </div>
+
+    <div data-js="carousel__item" class="carousel__item">
+      <div class="carousel-item-wrapper">
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 4</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 5</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 6</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+      </div>
+    </div>
+
+    <div data-js="carousel__item" class="carousel__item">
+      <div class="carousel-item-wrapper">
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 7</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 8</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+        <div data-js="carousel__item-mobile" class="card">
+          <img src="assets/background.png"
+            alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+          <h3>LOREM IPSUM 9</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
+            vel facilisis.</p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="carousel__actions">
+      <button data-js="carousel__button--prev" aria-label="Slide anterior">
+        <img class="button-prev" src="assets/arrow.png" alt="Imagem de uma seta apontada para a esquerda">
+      </button>
+
+      <button data-js="carousel__button--next" aria-label="Próximo slide">
+        <img class="button-next" src="assets/arrow.png" alt="Imagem de uma seta apontada para a esquerda">
+      </button>
+    </div>
+  </section>
+
+  <!-- THIRD SECTION -->
+  <section class="third-section">
+    <section class="third-section-image">
+      <div class="rounded-image-wrapper">
+        <img src="assets/background.png"
+          alt="Imagem de uma paisagem, mostrando uma pessoa deitada em uma pedra, com árvores verdes ao seu redor e observando uma montanha de gelo ao fundo">
+      </div>
+    </section>
+    <section class="third-section-data">
+      <h2>LOREM IPSUM</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+        facilisis. </p>
+      <strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+        facilisis. </strong>
+      <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+        facilisis. </i>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+        facilisis. </p>
+    </section>
+  </section>
+
+  <!-- FORTH SECTION -->
+  <section class="fourth-section">
+    <div data-js="accordion" class="accordion">
+
+      <div class="accordion-item">
+        <button data-accordion-header="1" data-js="accordion-header" class="accordion-header">
+          <strong data-accordion-header="1">Lorem ipsum</strong>
+          <img data-accordion-header="1" width="20px" src="assets/arrow.png" alt="">
+        </button>
+        <div data-accordion-body="1" class="accordion-body">
+          <div class="accordion-image-wrapper">
+            <img src="assets/background.png" alt="">
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore
+            magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+            facilisis.</p>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <button data-accordion-header="2" data-js="accordion-header" class="accordion-header">
+          <strong data-accordion-header="2">Lorem ipsum</strong>
+          <img data-accordion-header="2" width="20px" src="assets/arrow.png" alt="">
+        </button>
+        <div data-accordion-body="2" class="accordion-body">
+          <div class="accordion-image-wrapper">
+            <img src="assets/background.png" alt="">
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore
+            magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+            facilisis.</p>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <button data-accordion-header="3" data-js="accordion-header" class="accordion-header">
+          <strong data-accordion-header="3">Lorem ipsum</strong>
+          <img data-accordion-header="3" width="20px" src="assets/arrow.png" alt="">
+        </button>
+        <div data-accordion-body="3" class="accordion-body">
+          <div class="accordion-image-wrapper">
+            <img src="assets/background.png" alt="">
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore
+            magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+            facilisis.</p>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <button data-accordion-header="4" data-js="accordion-header" class="accordion-header">
+          <strong data-accordion-header="4">Lorem ipsum</strong>
+          <img data-accordion-header="4" width="20px" src="assets/arrow.png" alt="">
+        </button>
+        <div data-accordion-body="4" class="accordion-body">
+          <div class="accordion-image-wrapper">
+            <img src="assets/background.png" alt="">
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore
+            magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+            facilisis.</p>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <button data-accordion-header="5" data-js="accordion-header" class="accordion-header">
+          <strong data-accordion-header="5">Lorem ipsum</strong>
+          <img data-accordion-header="5" width="20px" src="assets/arrow.png" alt="">
+        </button>
+        <div data-accordion-body="5" class="accordion-body">
+          <div class="accordion-image-wrapper">
+            <img src="assets/background.png" alt="">
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore
+            magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+            facilisis.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FIFTH SECTION -->
+  <section class="fifth-section">
+    <form>
+      <label>*Nome:</label>
+      <input class="input" name="name" id="name" type="text" placeholder="Informe seu nome" autocomplete="off" required>
+
+      <div class="row">
+        <label>*E-mail:</label>
+        <input class="input" name="email" id="email" type="email" placeholder="Informe seu e-mail" autocomplete="off"
+          required>
+        <label class="label-phone">*Telefone:</label>
+        <input class="input" type="tel" name="telefone" id="telefone" placeholder="(__) ____-____" maxlength="15"
+          required />
+      </div>
+
+      <label>*Mensagem:</label>
+      <textarea class="textarea" name="message" id="message" placeholder="Escreva aqui" autocomplete="off"
+        required></textarea>
+
+      <div class="submit-button">
+        <button type="submit">
+          Enviar
+        </button>
+      </div>
+    </form>
+  </section>
+
+  <!-- SIXTH SECTION -->
+  <footer>
+    <h3>LOREM IPSUM</h3>
+  </footer>
+
+  <!-- SCRIPT -->
+  <script src="js/script.js"></script>
+
+</body>
+
+</html>
