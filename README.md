@@ -17,14 +17,25 @@
 </p>
 
 <h4 align="center">
-  Este repositório é destinado a um teste que fiz para empresa "DOT Group", do qual consistia em recriar o design de uma aplicação pré estabelecida utilizando apenas HTML, CSS, JavaScript e Gulp. A aplicação deveria, também, ser responsiva, isso é, ser funcional em qualquer tamanho de tela
+  Este repositório é destinado a um teste que fiz para empresa "DOT Group", do qual consistia em recriar o design de uma aplicação pré estabelecida utilizando apenas HTML, CSS, JavaScript e Gulp. A aplicação deveria, também, ser responsiva, isso é, ser funcional em qualquer tamanho de tela. Neste repositório, estão os diretórios para asvagas de júnior e pleno.
 </h4>
 
 <p align="center">
-  <a href="#computer-desktop">Desktop</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#yum-demonstração">Demonstração</a>
+  <a href="#computer-pleno">Pleno</a> | <a href="#computer-júnior">Júnior</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#yum-demonstração">Demonstração</a>
 </p>
+
+## :computer: Pleno
+
+<h4 align="center">
+  Versão de desktop esperada | Versão de desktop feita
+</h4>
+
+<div align="center">
+  <img src="https://i.ibb.co/kBhYWGR/Prova-Front-End-Pleno-Desk.png" width=49% >
+  <img src="https://i.ibb.co/pwWvtZR/C-Users-Leonardo-Desktop-Teste-DOT-pleno-index-html-name-dew-email-wee-com-telefone-23-23232-3323-me.png" width=48.75% >
+</div>
   
-## :computer: Desktop
+## :computer: Júnior
 
 <h4 align="center">
   Versão de desktop esperada | Versão de desktop feita
