@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/4Tz5BwB/1624295414344.jpg" width="100">
+  <img src="logo.jpg" width="100">
   <br>
   Teste DOT Group | Pleno | Júnior
 </h1>
@@ -15,8 +15,16 @@
 </h4>
 
 <p align="center">
-  <a href="#computer-pleno">Pleno</a> | <a href="#computer-júnior">Júnior</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#yum-demonstração">Demonstração</a>
+ <a href="#newspaper-layout">Layout</a> | <a href="#computer-pleno">Pleno</a> | <a href="#computer-júnior">Júnior</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#yum-demonstração">Demonstração</a>
 </p>
+
+## :newspaper: Layout
+
+O layout desejado pode ser conferido nos links abaixo:
+- <a href="https://raw.githubusercontent.com/LeoHPC/teste-dot/main/ProvaFrontEndPleno-Desk.png?token=GHSAT0AAAAAABQOFMHWJ3S77Q5V4EYHVN66YWASIBQ">Desktop (pleno)</a>
+- <a href="https://raw.githubusercontent.com/LeoHPC/teste-dot/main/ProvaFrontEndPleno-Mobile.png?token=GHSAT0AAAAAABQOFMHXDEISRTWFC52LM6PUYWASIJA">Mobile (pleno)</a>
+- <a href="https://raw.githubusercontent.com/LeoHPC/teste-dot/main/ProvaFrontEndJunior-Desk.png?token=GHSAT0AAAAAABQOFMHWXFYD56PLA25QXTAEYWASHZQ">Desktop (júnior)</a>
+- <a href="https://raw.githubusercontent.com/LeoHPC/teste-dot/main/ProvaFrontEndJunior-Mobile%20(1).png?token=GHSAT0AAAAAABQOFMHXMHOBFNWT5SINPFEGYWASHRA">Mobile (júnior)</a>
 
 ## :computer: Pleno
 
@@ -25,8 +33,8 @@
 </h4>
 
 <div align="center">
-  <img src="https://i.ibb.co/pwWvtZR/C-Users-Leonardo-Desktop-Teste-DOT-pleno-index-html-name-dew-email-wee-com-telefone-23-23232-3323-me.png" width=50% >
-  <img src="https://i.ibb.co/ph2qcGS/teste-dot-pleno-vercel-app-i-Phone-SE.png" width=14.94% >
+  <img src="pleno-desktop.png" width=50% >
+  <img src="pleno-mobile.png" width=14.94% >
 </div>
   
 ## :computer: Júnior
@@ -36,8 +44,8 @@
 </h4>
 
 <div align="center">
-  <img src="https://i.ibb.co/d5SmK0x/teste-dot-leohpc-vercel-app-teste-dot.png" width=50% >
-  <img src="https://i.ibb.co/9hSCpgb/teste-dot-leohpc-vercel-app-i-Phone-SE-1.png" width=9.42% >
+  <img src="junior-desktop.png" width=50% >
+  <img src="junior-mobile.png" width=9.42% >
 
 </div>
 
